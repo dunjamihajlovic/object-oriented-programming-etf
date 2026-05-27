@@ -1,2 +1,3 @@
-#Domaci zadaci iz predmeta OO1 na ETF-u
+#Domaci zadaci iz predmeta Objektno-orjentisano programiranje 1 na ETF-u
+
 #C++
